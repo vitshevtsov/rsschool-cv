@@ -19,6 +19,9 @@ Education
 2018-2019 
 **Big Data Course**; Sber Corporate University
 
+2021 
+**DataArt JS Academy**; DataArt company
+
 
 Experience
 ----------
